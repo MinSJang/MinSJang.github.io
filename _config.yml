@@ -3,7 +3,8 @@ title: Aristel for github
 email: msj351@naver.com
 description: Some text about your blog.
 baseurl:
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+#url: "https://www.rossener.com" # the base hostname & protocol for your site
+url: "https://minsjang.github.com"
 google_analytics: "UA-109411419-1"
 
 # User Settings
