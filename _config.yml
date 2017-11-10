@@ -4,7 +4,7 @@ email: msj351@naver.com
 description: Some text about your blog.
 baseurl:
 #url: "https://www.rossener.com" # the base hostname & protocol for your site
-url: "https://minsjang.github.com"
+url: "https://minsjang.github.io"
 google_analytics: "UA-109411419-1"
 
 # User Settings
@@ -35,11 +35,11 @@ gems:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Home1
     url: /
-  - title: About
+  - title: About1
     url: /about/
-  - title: Contact
+  - title: Contact1
     url: /contact/
 
 # Exclude my node related stuff
