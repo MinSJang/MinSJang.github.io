@@ -35,11 +35,11 @@ gems:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home1
+  - title: Home
     url: /
-  - title: About1
+  - title: About
     url: /about/
-  - title: Contact1
+  - title: Contact
     url: /contact/
 
 # Exclude my node related stuff
